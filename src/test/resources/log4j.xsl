@@ -25,7 +25,7 @@
         </layout>
     </appender>
 
-    <category name="jobchat.task">
+    <category name="">
         <priority value="all" />
         <appender-ref ref="console" />
         <appender-ref ref="logfile" />

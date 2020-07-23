@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="LOKALTALK" parallel="false">
+<suite name="NopCommerce" parallel="false">
 
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
@@ -20,7 +20,7 @@
     <test name="Run on CHROME">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name=""></class>
+            <class> name=""</class>
         </classes>
     </test>
 

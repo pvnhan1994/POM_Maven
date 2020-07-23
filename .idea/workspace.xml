@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c75a8a-7110-41ab-b1a8-67eb649328b5" name="Default Changelist" comment="" />
+    <list default="true" id="a4c75a8a-7110-41ab-b1a8-67eb649328b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LOKAL_TALK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NopCommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/commons/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/commons/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/runLokalTalkTestCases.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/runNopCommerceTCs.xsl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YyRIM9O3Fw4wVwAukRNOheunDx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
